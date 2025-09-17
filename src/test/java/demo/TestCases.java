@@ -27,6 +27,8 @@ public class TestCases {
     ChromeDriver driver;
     Wrappers wrapper;
 
+    //add comments for verification
+
     /*
      * TODO: Write your tests here with testng @Test annotation. 
      * Follow `testCase01` `testCase02`... format or what is provided in instructions
